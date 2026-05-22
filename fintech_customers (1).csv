@@ -1,0 +1,6 @@
+Age,Income,CreditScore,Transactions,Response
+25,35000,650,120,Interested
+30,50000,720,250,Interested
+45,80000,680,180,Not Interested
+35,62000,710,300,Interested
+50,90000,640,150,Not Interested
